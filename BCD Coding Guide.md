@@ -131,8 +131,8 @@ that all interface documentation uses comment extenstion that will allow them to
 be parsed by Doxygen to allow for documenation generation.
 
 #### Formatting
-This is pretty arbitrary and is a bit of a work in progress. Stick with the 
-Google Coding Style for the most part unless specifically documented here.
+We shall stick to the 
+Google Coding Style except for the list documented below:
 
 * **Line Length:** try to keep the line length between 80 - 100 characters 
    as far as possible
